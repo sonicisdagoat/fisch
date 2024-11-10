@@ -17,7 +17,7 @@ HoldRodCastDuration := 3000
 ;======    Shake Settings    =====================================================================;
 
 ; Change To "Navigation" or "Click"
-ShakeMode := "Navigation"
+ShakeMode := "click"
 WhiteBarColorTolerance := 15
 FishBarColorTolerance := 2
 
