@@ -22,7 +22,7 @@ WhiteBarColorTolerance := 15
 FishBarColorTolerance := 2
 
 ; Navigation UI Settings
-NavigationKey := "ň"
+NavigationKey := "n"
 NavigationFailsafeTimer := 20
 NavigationInputDelay := 10
 
